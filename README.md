@@ -20,7 +20,7 @@ Obtendo o endereço da máquina: ifconfig
 
 URL para clone: http://www.facebook.com
 
-![image](https://github.com/RODRIGOTIDEV/cibersecurity-desafio-phishing-DIO/assets/47644147/99dc895e-8eed-482c-b462-359d055954dc)
+![image](https://github.com/RODRIGOTIDEV/cibersecurity-desafio-phishing-DIO/assets/47644147/c5c915b8-c8a6-44a5-9006-927c0eb9d7d7)
 
 
 Resutados
